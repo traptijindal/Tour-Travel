@@ -15,7 +15,7 @@ function Navbar() {
   }
   return (
     <nav className='NavbarItems'>
-        <h1 className='navbar-logo'>Trippy</h1>
+        <h1 className='navbar-logo'>Tourio</h1>
 
         <div className='menu-icons' onClick={handleClick}>
         <FontAwesomeIcon icon={clicked ? faXmark : faBars } />

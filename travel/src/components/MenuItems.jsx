@@ -21,7 +21,7 @@ const MenuItems = [
     },
     {
         title: "Contact",
-        url: "/signup",
+        url: "/contact",
         cName: "nav-links",
         icon: faAddressBook // Correct FontAwesome icon name format
     },
