@@ -2,6 +2,7 @@ import React from 'react'
 import Navbar from './Navbar'
 import Hero from './Hero'
 import Destination from './Destination'
+import Trip from './Trip'
 
 function Home() {
   return (
@@ -17,6 +18,7 @@ function Home() {
       btnClass="show"
       />
       <Destination/>
+      <Trip/>
     </div>
   )
 }
