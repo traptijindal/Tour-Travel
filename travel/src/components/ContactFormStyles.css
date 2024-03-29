@@ -10,6 +10,9 @@
     margin:auto;
 
 }
+.form-container h1{
+    text-align: center;
+}
 
 .form-container input{
     height:3rem;
