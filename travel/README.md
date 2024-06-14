@@ -1,8 +1,45 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Tourio
 
-Currently, two official plugins are available:
+Tourio is a dynamic tour and travel website built using React.js. It offers seamless
+ navigation and engaging user experience, showcasing various destinations, travel
+ packages, and booking options. With its interactive features and responsive design, Tourio aims to redefine the way users explore and plan their travel adventures.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install 
+  cd Tour-Travel
+  cd travel
+```
+    
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/traptijindal/FillingFuture.git
+```
+
+Go to the project directory
+
+```bash
+  cd Tour-Travel
+  cd travel
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run dev
+```
